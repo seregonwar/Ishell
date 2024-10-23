@@ -61,6 +61,5 @@ For support or inquiries, please contact the developer:
 - Twitter: [@SeregonWar](https://x.com/SeregonWar)
 - Reddit: [/u/S3R3GON/](https://www.reddit.com/user/S3R3GON/)
 
-## Acknowledgements
-
-Special thanks to all contributors and the jailbreak community for making this project possible.
+## History of the project.
+The Ishell project was born about 2 years ago, initially based on swift it was rewritten in ObjC enhanced and improved with the introduction of an intuitive interface, terminal history management and other interesting features. it is possible to use Ishell on both sandboxed and full jailbroken systems.
